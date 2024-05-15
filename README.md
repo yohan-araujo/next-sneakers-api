@@ -4,7 +4,7 @@ Este projeto é referente ao projeto:  [https://github.com/yohan-araujo/next-sne
 
 Demonstração deste projeto: 
 
-[Powered by Vercel](https://next-sneakers-api.vercel.app/)](https://next-sneakers-api.vercel.app/)]
+[(https://next-sneakers-api.vercel.app/)](https://next-sneakers-api.vercel.app/)]
 
 ### Utilizar Localmente
 
